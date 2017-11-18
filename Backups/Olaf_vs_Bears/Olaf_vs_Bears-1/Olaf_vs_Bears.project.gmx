@@ -18,11 +18,7 @@
     <object>objects\obj_Player</object>
   </objects>
   <rooms name="rooms">
-<<<<<<< HEAD
-    <room>rooms\rm_Start1</room>
-=======
-    <room>rooms\rm_Start</room>
->>>>>>> Flazlorky_branch
+    <room>rooms\room0</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
